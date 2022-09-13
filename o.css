@@ -1,0 +1,27 @@
+body {
+    background-color: papayawhip;
+}
+
+h1 {
+    color: cadetblue;
+    margin-left: 230px;
+    margin-top: 50px;
+
+
+}
+
+table {
+    border: 10px solid orange;
+    margin-left: 230px;
+    margin-top: 50px;
+    font-size: xxx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    border-style: double;
+    border-spacing: 30px;
+}
+
+
+table:hover {
+    color: green;
+}
